@@ -1,0 +1,59 @@
+body {
+    background: radial-gradient(73% 147%, #EADFDF 59%, #ECE2DF 100%), radial-gradient(91% 146%, rgba(255,255,255,0.50) 47%, rgba(0,0,0,0.50) 100%);;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    margin-bottom: 20px;
+}
+
+img {
+    width: 300px;
+    padding: 10px;
+    }
+
+.primary-links a {
+    text-align: left;
+    text-decoration: none;
+    color: mediumvioletred;
+    font-weight: 500;
+
+}
+
+.primary-links :hover {
+    color: darksalmon;
+}
+
+.homepage-image {
+    margin: 0 auto;
+    display: flex;
+}
+
+.photo-page-images {
+display: flex;
+justify-content: center;
+}
+
+.contact-page-image {
+    display: flex;
+    justify-content: center;
+    }
+
+.contact-link {
+    text-decoration: none;
+    color: mediumvioletred;
+    font-weight: 500;
+}
+
+.email-link {
+    text-decoration: none;
+    color: mediumvioletred;
+    font-weight: 500;
+}
+
+
+
+
