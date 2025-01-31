@@ -1,9 +1,6 @@
 body {
-    background: radial-gradient(73% 147%, #EADFDF 59%, #ECE2DF 100%), radial-gradient(91% 146%, rgba(255,255,255,0.50) 47%, rgba(0,0,0,0.50) 100%);;
-}
-
-h1 {
-    text-align: center;
+    background: radial-gradient(73% 147%, #EADFDF 59%, #ECE2DF 100%), radial-gradient(91% 146%, rgba(255,255,255,0.50) 47%, rgba(0,0,0,0.50) 100%);
+    margin-left: 20px;
 }
 
 h2 {
@@ -26,21 +23,6 @@ img {
 .primary-links :hover {
     color: darksalmon;
 }
-
-.homepage-image {
-    margin: 0 auto;
-    display: flex;
-}
-
-.photo-page-images {
-display: flex;
-justify-content: center;
-}
-
-.contact-page-image {
-    display: flex;
-    justify-content: center;
-    }
 
 .contact-link {
     text-decoration: none;
